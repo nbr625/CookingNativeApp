@@ -26,7 +26,7 @@ export default class Navbar extends Component {
 
 const styles = StyleSheet.create({
     containerNavbar: {
-        backgroundColor: '#555566',
+        backgroundColor: '#4e0032',
         flexDirection: 'row',
         marginBottom: 10,
         paddingHorizontal: 20,
